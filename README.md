@@ -1,6 +1,3 @@
-# Sales-Insight
-
-
 # 📊 Power BI Sales Insights Dashboard 
 
 Interactive BI Project Walkthrough
